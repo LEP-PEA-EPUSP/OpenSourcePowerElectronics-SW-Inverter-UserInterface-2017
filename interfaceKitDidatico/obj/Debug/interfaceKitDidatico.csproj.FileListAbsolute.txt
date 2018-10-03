@@ -13,6 +13,21 @@ C:\Users\Luciana\Dropbox\Repositório Kit Didático\3- Placa Controle (ARM)\Apli
 C:\Users\Luciana\Dropbox\Repositório Kit Didático\3- Placa Controle (ARM)\Aplicativo de Interface\interfaceKitDidatico\interfaceKitDidatico\obj\Debug\interfaceKitDidatico.gerarArquivoCSV.resources
 C:\Users\Luciana\Dropbox\Repositório Kit Didático\3- Placa Controle (ARM)\Aplicativo de Interface\interfaceKitDidatico\interfaceKitDidatico\obj\Debug\interfaceKitDidatico.tela1.resources
 C:\Users\Luciana\Dropbox\Repositório Kit Didático\3- Placa Controle (ARM)\Aplicativo de Interface\interfaceKitDidatico\interfaceKitDidatico\obj\Debug\interfaceKitDidatico.modulacaoSenoidal3niveis.resources
-C:\Users\Luciana\Dropbox\Repositório Kit Didático\3- Placa Controle (ARM)\Aplicativo de Interface\interfaceKitDidatico-backup\interfaceKitDidatico\interfaceKitDidatico\bin\Debug\interfaceKitDidatico.exe.config
-C:\Users\Luciana\Dropbox\Repositório Kit Didático\3- Placa Controle (ARM)\Aplicativo de Interface\interfaceKitDidatico-backup\interfaceKitDidatico\interfaceKitDidatico\obj\Debug\interfaceKitDidatico.exe
-C:\Users\Luciana\Dropbox\Repositório Kit Didático\3- Placa Controle (ARM)\Aplicativo de Interface\interfaceKitDidatico-backup\interfaceKitDidatico\interfaceKitDidatico\obj\Debug\interfaceKitDidatico.pdb
+C:\Users\Lucas\OneDrive\Dropbox Antigo\Repositório Kit Didático\3- Placa Controle (ARM)\Aplicativo de Interface\interfaceKitDidatico\interfaceKitDidatico\bin\Debug\interfaceKitDidatico.exe.config
+C:\Users\Lucas\OneDrive\Dropbox Antigo\Repositório Kit Didático\3- Placa Controle (ARM)\Aplicativo de Interface\interfaceKitDidatico\interfaceKitDidatico\obj\Debug\interfaceKitDidatico.exe
+C:\Users\Lucas\OneDrive\Dropbox Antigo\Repositório Kit Didático\3- Placa Controle (ARM)\Aplicativo de Interface\interfaceKitDidatico\interfaceKitDidatico\obj\Debug\interfaceKitDidatico.pdb
+C:\Users\Lucas\OneDrive\Dropbox Antigo\Repositório Kit Didático\3- Placa Controle (ARM)\Aplicativo de Interface\interfaceKitDidatico\interfaceKitDidatico\bin\Debug\interfaceKitDidatico.exe
+C:\Users\Lucas\OneDrive\Dropbox Antigo\Repositório Kit Didático\3- Placa Controle (ARM)\Aplicativo de Interface\interfaceKitDidatico\interfaceKitDidatico\bin\Debug\interfaceKitDidatico.pdb
+C:\Users\Lucas\OneDrive\Dropbox Antigo\Repositório Kit Didático\3- Placa Controle (ARM)\Aplicativo de Interface\interfaceKitDidatico\interfaceKitDidatico\obj\Debug\interfaceKitDidatico.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\OneDrive\Dropbox Antigo\Repositório Kit Didático\3- Placa Controle (ARM)\Aplicativo de Interface\interfaceKitDidatico\interfaceKitDidatico\obj\Debug\interfaceKitDidatico.abrirArquivoCSV.resources
+C:\Users\Lucas\OneDrive\Dropbox Antigo\Repositório Kit Didático\3- Placa Controle (ARM)\Aplicativo de Interface\interfaceKitDidatico\interfaceKitDidatico\obj\Debug\interfaceKitDidatico.dutyCycleFixo.resources
+C:\Users\Lucas\OneDrive\Dropbox Antigo\Repositório Kit Didático\3- Placa Controle (ARM)\Aplicativo de Interface\interfaceKitDidatico\interfaceKitDidatico\obj\Debug\interfaceKitDidatico.PaginaInicial.resources
+C:\Users\Lucas\OneDrive\Dropbox Antigo\Repositório Kit Didático\3- Placa Controle (ARM)\Aplicativo de Interface\interfaceKitDidatico\interfaceKitDidatico\obj\Debug\interfaceKitDidatico.gerarArquivoCSV.resources
+C:\Users\Lucas\OneDrive\Dropbox Antigo\Repositório Kit Didático\3- Placa Controle (ARM)\Aplicativo de Interface\interfaceKitDidatico\interfaceKitDidatico\obj\Debug\interfaceKitDidatico.modulacaoSenoidal.resources
+C:\Users\Lucas\OneDrive\Dropbox Antigo\Repositório Kit Didático\3- Placa Controle (ARM)\Aplicativo de Interface\interfaceKitDidatico\interfaceKitDidatico\obj\Debug\interfaceKitDidatico.modulacaoSenoidal3niveis.resources
+C:\Users\Lucas\OneDrive\Dropbox Antigo\Repositório Kit Didático\3- Placa Controle (ARM)\Aplicativo de Interface\interfaceKitDidatico\interfaceKitDidatico\obj\Debug\interfaceKitDidatico.Properties.Resources.resources
+C:\Users\Lucas\OneDrive\Dropbox Antigo\Repositório Kit Didático\3- Placa Controle (ARM)\Aplicativo de Interface\interfaceKitDidatico\interfaceKitDidatico\obj\Debug\interfaceKitDidatico.tela1.resources
+C:\Users\Lucas\OneDrive\Dropbox Antigo\Repositório Kit Didático\3- Placa Controle (ARM)\Aplicativo de Interface\interfaceKitDidatico\interfaceKitDidatico\obj\Debug\interfaceKitDidatico.csproj.GenerateResource.Cache
+C:\Users\Lucas\Documents\GitHub\OpenSourcePowerElectronics-SW-Inverter-UserInterface-2017\interfaceKitDidatico\bin\Debug\interfaceKitDidatico.exe.config
+C:\Users\Lucas\Documents\GitHub\OpenSourcePowerElectronics-SW-Inverter-UserInterface-2017\interfaceKitDidatico\obj\Debug\interfaceKitDidatico.exe
+C:\Users\Lucas\Documents\GitHub\OpenSourcePowerElectronics-SW-Inverter-UserInterface-2017\interfaceKitDidatico\obj\Debug\interfaceKitDidatico.pdb

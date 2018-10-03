@@ -70,7 +70,7 @@ namespace interfaceKitDidatico
             }
             if (comboBox1.Text == "1800")
             {
-                buffer[2] = 0x2E;
+                buffer[2] = 0x5D;
             }
 
             // calculo ARR - bytes 3 e 4 -- setar em 2000
@@ -204,6 +204,15 @@ namespace interfaceKitDidatico
         private void modulacaoSenoidal_FormClosed(object sender, FormClosedEventArgs e)
         {
             tela1.Enabled = true;
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            PaginaInicial.buffer[0] = 3;
+            string comando = (PaginaInicial.bufferdados[0]).ToString() + (PaginaInicial.bufferdados[1]).ToString() + (PaginaInicial.bufferdados[2]).ToString() + (PaginaInicial.bufferdados[3]).ToString() + (PaginaInicial.bufferdados[4]).ToString() + (PaginaInicial.bufferdados[5]).ToString() + (PaginaInicial.bufferdados[6]).ToString() + (PaginaInicial.bufferdados[7]).ToString() + (PaginaInicial.bufferdados[8]).ToString() + (PaginaInicial.bufferdados[9]).ToString();
+            textBox4.Text = comando;
+            string buf = (PaginaInicial.bufferdados[0]).ToString() + (PaginaInicial.bufferdados[1]).ToString() + (PaginaInicial.bufferdados[2]).ToString() + (PaginaInicial.bufferdados[3]).ToString() + (PaginaInicial.bufferdados[4]).ToString() + (PaginaInicial.bufferdados[5]).ToString() + (PaginaInicial.bufferdados[6]).ToString() + (PaginaInicial.bufferdados[7]).ToString() + (PaginaInicial.bufferdados[8]).ToString() + (PaginaInicial.bufferdados[9]).ToString();
+            textBox5.Text = buf;
         }
     }
 }

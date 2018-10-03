@@ -53,7 +53,7 @@
             // 
             this.serialPort1.BaudRate = 115200;
             this.serialPort1.Parity = System.IO.Ports.Parity.Even;
-            this.serialPort1.PortName = "COM3";
+            this.serialPort1.PortName = "COM4";
             this.serialPort1.ReadTimeout = 500;
             this.serialPort1.WriteTimeout = 500;
             this.serialPort1.ErrorReceived += new System.IO.Ports.SerialErrorReceivedEventHandler(this.serialPort1_ErrorReceived);
